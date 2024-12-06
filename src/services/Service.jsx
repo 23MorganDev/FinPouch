@@ -3,10 +3,10 @@ import axios from "axios"
 const API_URL = import.meta.env.VITE_BASE_URL;
 const API_URL_KEY = import.meta.env.VITE_API_KEY;
 
-VITE_ALPHA_VANTAGE_KEY='2OUDTRWHX9A19QK1'
-VITE_ALPHA_VANTAGE_URL='https://www.alphavantage.co/query'
-const VANTAGE_API_URL = import.meta.VITE_ALPHA_VANTAGE_URL;
-const VANTAGE_API_KEY = import.meta.VITE_ALPHA_VANTAGE_KEY
+const VANTAGE_API_URL='https://www.alphavantage.co/query'
+const VANTAGE_API_KEY='2OUDTRWHX9A19QK1'
+//const VANTAGE_API_URL = import.meta.VITE_ALPHA_VANTAGE_URL;
+//const VANTAGE_API_KEY = import.meta.VITE_ALPHA_VANTAGE_KEY
 
 
 

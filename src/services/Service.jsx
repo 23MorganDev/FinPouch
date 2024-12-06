@@ -5,6 +5,7 @@ const API_URL_KEY = import.meta.env.VITE_API_KEY;
 const VANTAGE_API_URL = import.meta.VITE_ALPHA_VANTAGE_URL;
 const VANTAGE_API_KEY = import.meta.VITE_ALPHA_VANTAGE_KEY
 
+
 //fetching electricity consunption
 
 export const fetchElectricity = async (electricityValue, country) => {

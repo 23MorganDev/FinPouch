@@ -108,7 +108,7 @@ const ActivelyTraded = () => {
                     fontWeight: "bold",
                 }}
             >
-                Today's Gainers
+                Most Active Trades
             </Typography>
 
             <TableContainer
